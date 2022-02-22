@@ -2,7 +2,21 @@
 
 ## Purpose
 
-The aim of this project is to analyse the dataset of an independent gaming company to understand player purchasing habits and player demographics. The purchasing data is in an CSV format, Python was used to analysed the data showcasing the skills with Pandas library. I was curious to answer the following questions.
+The aim of this project is to analyse the dataset of an independent gaming company to understand player purchasing habits and player demographics. The purchasing data is in an CSV format, Python was used to analysed the data showcasing the skills with Pandas library. I was curious to answer the following questions below.
+
+## Repo Structure
+
+```
+Analysis/    
+   |_ Three Observable trends from the data.docx                    # the written analysis displaying observable trends
+   |_ HeroesOfPymoli_starter.ipynb                                  # the Jupyter notebook answering all questions
+Images/                                                             # background image
+Resources/                                                          # Raw Data
+
+```
+
+![Images/Fantasy.PNG](Images/Fantasy.PNG)
+#### Questions
 
 ### Player Count
 
