@@ -15,7 +15,7 @@ Resources/                                                          # Raw Data
 
 ```
 
-![Images/Fantasy.png.PNG](/Images/Fantasy.png.PNG)
+![Images/Fantasy.png](/Images/Fantasy.png)
 #### Questions
 
 ### Player Count
